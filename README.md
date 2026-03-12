@@ -6,8 +6,9 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   ░░  SUNG-YU LIN  //  SungYu444  ░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
-║   ▸▸  CS STUDENT   ·   CYBERSECURITY   ·   SYSTEMS  ◂◂          ║
+║              S U N G - Y U   L I N  ·  SungYu444                 ║
+║                                                                  ║
+║         CS Student  ·  Cybersecurity  ·  Systems                 ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -64,13 +65,13 @@
 
 ## `◈ ~/projects`
 
-| | Project | Description | Stack |
-|--|---------|-------------|-------|
-| 🌌 | [**NASA-SPACE-APP**](https://github.com/SungYu444/NASA-space-app-6js) | Interactive 3D meteor impact & asteroid visualization | `TypeScript` `React Three Fiber` `WebGL` |
-| 🔍 | [**ESP32-WIFI-SECURITY**](https://github.com/SungYu444/ESP32-home-WIFI-security) | Network scanner using ARP requests to map local devices | `C` `ESP32` `Networking` |
-| 🤖 | [**GITMERGER**](https://github.com/SungYu444/GitMerger) | AI-powered GitHub merge conflict resolution tool | `TypeScript` `AI` |
-| 🎵 | [**STRUDEL-SONG**](https://github.com/SungYu444/Strudel-song) | Music created with live coding | `JavaScript` |
-| ⚙️ | [**ARCH-DOTFILES**](https://github.com/SungYu444/Arch-dotfiles) | Hyprland configuration for Arch Linux | `Shell` |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**NASA-SPACE-APP**](https://github.com/SungYu444/NASA-space-app-6js) | Interactive 3D meteor impact & asteroid visualization | `TypeScript` `React Three Fiber` `WebGL` |
+| [**ESP32-WIFI-SECURITY**](https://github.com/SungYu444/ESP32-home-WIFI-security) | Network scanner using ARP requests to map local devices | `C` `ESP32` `Networking` |
+| [**GITMERGER**](https://github.com/SungYu444/GitMerger) | AI-powered GitHub merge conflict resolution tool | `TypeScript` `AI` |
+| [**STRUDEL-SONG**](https://github.com/SungYu444/Strudel-song) | Music created with live coding | `JavaScript` |
+| [**ARCH-DOTFILES**](https://github.com/SungYu444/Arch-dotfiles) | Hyprland configuration for Arch Linux | `Shell` |
 
 ---
 
