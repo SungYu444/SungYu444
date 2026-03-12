@@ -108,7 +108,8 @@ print(f"Always building. Always learning.")
 
 `[ Let's connect & build something interesting ]`
 
-[![GitHub](https://img.shields.io/badge/◈_github.com/SungYu444-00ff88?style=flat-square&labelColor=050507)](https://github.com/SungYu444)
+[![LinkedIn](https://img.shields.io/badge/◈_linkedin.com/in/sung--yu--lin-00cfff?style=flat-square&labelColor=050507&logo=linkedin&logoColor=00cfff)](https://www.linkedin.com/in/sung-yu-lin-a29072316/)
+[![Email](https://img.shields.io/badge/◈_sungyu444@gmail.com-00ff88?style=flat-square&labelColor=050507&logo=gmail&logoColor=00ff88)](mailto:sungyu444@gmail.com)
 
 <sub>◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈</sub>
 
