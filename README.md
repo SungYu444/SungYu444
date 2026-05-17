@@ -98,7 +98,7 @@ interests = {
     "building":   ["3D visualizations", "AI-powered tools", "IoT devices"],
     "currently":  ["deepening CTF skills", "exploring reverse engineering"]
 }
-
+```
 ---
 
 <div align="center">
