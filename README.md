@@ -83,9 +83,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SungYu444&layout=compact&theme=dark&bg_color=050507&border_color=1a1a2a&title_color=00cfff&text_color=c0c0d0)
 
-</div>
+</div>-->
 
------>
+---
 
 ## `⟩ ~/interests.py`
 
@@ -103,10 +103,19 @@ interests = {
 
 <div align="center">
 
-`[ Let's connect & build something interesting ]`
+<code>Let's connect & build something interesting</code>
 
-[![LinkedIn](https://img.shields.io/badge/◈_linkedin.com/in/sung--yu--lin-00cfff?style=flat-square&labelColor=050507&logo=linkedin&logoColor=00cfff)](https://www.linkedin.com/in/sung-yu-lin-a29072316/)
-[![Email](https://img.shields.io/badge/◈_sungyu444@gmail.com-00ff88?style=flat-square&labelColor=050507&logo=gmail&logoColor=00ff88)](mailto:sungyu444@gmail.com)
+<br><br>
+
+<a href="https://www.linkedin.com/in/sung-yu-lin-a29072316/">
+  <img src="https://img.shields.io/badge/LinkedIn-sung--yu--lin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:sungyu444@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sungyu444%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
 
 <sub>◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈</sub>
 
