@@ -75,7 +75,7 @@
 
 ---
 
-## `◉ ~/stats`
+<!--## `◉ ~/stats`
 
 <div align="center">
 
@@ -85,7 +85,7 @@
 
 </div>
 
----
+----->
 
 ## `⟩ ~/interests.py`
 
@@ -98,9 +98,6 @@ interests = {
     "building":   ["3D visualizations", "AI-powered tools", "IoT devices"],
     "currently":  ["deepening CTF skills", "exploring reverse engineering"]
 }
-
-print(f"Always building. Always learning.")
-```
 
 ---
 
