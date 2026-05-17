@@ -101,9 +101,15 @@ interests = {
 
 ---
 
+<div align="center">
+
 `[ Let's connect & build something interesting ]`
 
-[![LinkedIn](https://img.shields.io/badge/◈_linkedin.com/in/sung--yu--lin-00cfff?style=flat-square&labelColor=050507&logo=linkedin&logoColor=00cfff)](https://www.linkedin.com/in/sung-yu-lin-a29072316/)
-[![Email](https://img.shields.io/badge/◈_sungyu444@gmail.com-00ff88?style=flat-square&labelColor=050507&logo=gmail&logoColor=00ff88)](mailto:sungyu444@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sung--yu--lin-00cfff?style=flat-square&labelColor=050507&logo=linkedin&logoColor=00cfff)](https://www.linkedin.com/in/sung-yu-lin-a29072316/)
+[![Email](https://img.shields.io/badge/Email-sungyu444%40gmail.com-00ff88?style=flat-square&labelColor=050507&logo=gmail&logoColor=00ff88)](mailto:sungyu444@gmail.com)
+
+<br>
 
 <sub>◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈ ◈</sub>
+
+</div>
