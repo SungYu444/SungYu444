@@ -75,15 +75,31 @@
 
 ---
 
-<!--## `◉ ~/stats`
+## `◉ ~/stats --all --include-private`
 
 <div align="center">
 
-![Sung-Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungYu444&show_icons=true&theme=dark&bg_color=050507&border_color=1a1a2a&icon_color=00ff88&title_color=00cfff&text_color=c0c0d0&ring_color=00ff88)
+<!--
+  ▸ ENABLE PRIVATE COMMIT DETECTION (2 steps):
+  1. github.com/<you> → contribution graph → "Contribution settings" → check
+     "Private contributions" — the snake below will then eat them too.
+  2. The two cards below need your own (free) instance, since the public one
+     (github-readme-stats.vercel.app) is paused AND can't read private repos:
+       a. Deploy: https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats
+       b. In Vercel → Project → Settings → Environment Variables, add
+          PAT_1 = a GitHub personal access token (classic) with `repo` scope
+       c. Replace BOTH `YOUR-INSTANCE.vercel.app` below with your deployment
+          domain, then delete the surrounding comment markers.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SungYu444&layout=compact&theme=dark&bg_color=050507&border_color=1a1a2a&title_color=00cfff&text_color=c0c0d0)
+<img height="175" src="https://YOUR-INSTANCE.vercel.app/api?username=SungYu444&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&bg_color=050507&border_color=1a1a2a&icon_color=00ff88&title_color=00cfff&text_color=c0c0d0&custom_title=SungYu444%40arch%3A~%24%20.%2Fstats%20--all" alt="GitHub stats"/>
+<img height="175" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=SungYu444&layout=compact&langs_count=8&bg_color=050507&border_color=1a1a2a&title_color=00cfff&text_color=c0c0d0&custom_title=%24%20.%2Ftop_langs%20--compact" alt="Top languages"/>
+-->
 
-</div>-->
+<img src="https://raw.githubusercontent.com/SungYu444/SungYu444/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
+
+<sub>`[ snake.exe consuming commit history... ]`</sub>
+
+</div>
 
 ---
 
