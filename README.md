@@ -75,7 +75,7 @@
 
 ---
 
-## `◉ ~/stats --all --include-private`
+## `◉ ~/stats`
 
 <div align="center">
 
