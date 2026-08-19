@@ -29,10 +29,10 @@
   role     :: Computer Science Student
   focus    :: Cybersecurity & Systems Programming
   os       :: Arch Linux  //  wm :: Hyprland
-  status   :: [ LEARNING ] [ BUILDING ] [ EXPLORING ]
+  status   :: In the flow state
 ```
 
-> CS student with a focus on **cybersecurity** and systems programming. I like understanding how things work at a deep level — how they're built, how they break, and how to make them harder to attack. Building things that range from 3D space visualizations to ESP32 network scanners to AI-powered dev tools.
+> CS student with a focus on **cybersecurity** and systems programming. I like understanding how things work at a deep level — how they're built, how they break, and how to make them harder to attack.
 
 ---
 
@@ -111,15 +111,15 @@
 interests = {
     "security":   ["network scanning", "vulnerability research", "embedded security"],
     "systems":    ["arch linux", "low-level programming", "hardware hacking"],
-    "building":   ["3D visualizations", "AI-powered tools", "IoT devices"],
-    "currently":  ["deepening CTF skills", "exploring reverse engineering"]
+    "building":   ["3D visualizations", "robotic security", "IoT devices"],
+    "currently":  ["deepening CTF skills", "exploring reverse engineering", "learning cloud security"]
 }
 ```
 ---
 
 <div align="center">
 
-`[ Let's connect & build something interesting ]`
+`[ Let's connect!!]`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sung--yu--lin-00cfff?style=flat-square&labelColor=050507&logo=linkedin&logoColor=00cfff)](https://www.linkedin.com/in/sung-yu-lin-a29072316/)
 [![Email](https://img.shields.io/badge/Email-sungyu444%40gmail.com-00ff88?style=flat-square&labelColor=050507&logo=gmail&logoColor=00ff88)](mailto:sungyu444@gmail.com)
